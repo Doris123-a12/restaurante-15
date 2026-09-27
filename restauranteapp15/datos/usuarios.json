@@ -1,0 +1,14 @@
+[
+    {
+        "identificacion": "0102030405",
+        "nombre": "Doris",
+        "correo": "doris@gmail.com",
+        "contrasena": "1234"
+    },
+    {
+        "identificacion": "0105060708",
+        "nombre": "Juan",
+        "correo": "juan@gmail.com",
+        "contrasena": "1234"
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "codigo": "P001",
+        "nombre": "Hamburguesa",
+        "categoria": "Comida",
+        "precio": 5.50,
+        "stock": 10
+    },
+    {
+        "codigo": "P002",
+        "nombre": "Pizza",
+        "categoria": "Comida",
+        "precio": 8.00,
+        "stock": 8
+    },
+    {
+        "codigo": "P003",
+        "nombre": "Jugo natural",
+        "categoria": "Bebida",
+        "precio": 2.50,
+        "stock": 15
+    }
+]

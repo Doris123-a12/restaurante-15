@@ -1,0 +1,1 @@
+Carpeta de recursos visuales. logo.ppm es el logotipo utilizado por la interfaz.
